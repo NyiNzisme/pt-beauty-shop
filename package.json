@@ -1,14 +1,13 @@
 {
-  "name": "my-webpage",
+  "name": "pt-beauty-shop",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "vite build"
+    "lint": "eslint ."
   },
   "dependencies": {
     "react": "^19.1.0",
